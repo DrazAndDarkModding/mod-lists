@@ -24,20 +24,20 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/TDarkShadow/vivanewvegas-wabbajack/master/background.webp",
       "readme": "https://raw.githubusercontent.com/TDarkShadow/vivanewvegas-wabbajack/master/README.md",
-      "download": "https://github.com/TDarkShadow/vivanewvegas-wabbajack/releases/download/v1.5.0/Viva.New.Vegas.wabbajack",
+      "download": "https://github.com/TDarkShadow/vivanewvegas-wabbajack/releases/download/v1.5.3/Viva.New.Vegas.wabbajack",
       "machineURL": "vivanewvegas",
       "discordURL": "https://discord.gg/xQmzNASbz5"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "ACKPSB2z5x8=",
-      "Size": 3376975,
-      "NumberOfArchives": 68,
-      "SizeOfArchives": 676547146,
-      "NumberOfInstalledFiles": 8556,
-      "SizeOfInstalledFiles": 2796068062
+      "Hash": "SKJWRFz52MU=",
+      "Size": 218229116,
+      "NumberOfArchives": 75,
+      "SizeOfArchives": 1134392040,
+      "NumberOfInstalledFiles": 7675,
+      "SizeOfInstalledFiles": 3381485007
     },
-    "version": "1.5.0",
+    "version": "1.5.3",
     "RepositoryName": ""
   }
 ]
